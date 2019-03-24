@@ -1,0 +1,10 @@
+C:\Users\Gozde Erdogan\source\repos\WFABarbut\WFABarbut\bin\Debug\WFABarbut.exe.config
+C:\Users\Gozde Erdogan\source\repos\WFABarbut\WFABarbut\bin\Debug\WFABarbut.exe
+C:\Users\Gozde Erdogan\source\repos\WFABarbut\WFABarbut\bin\Debug\WFABarbut.pdb
+C:\Users\Gozde Erdogan\source\repos\WFABarbut\WFABarbut\obj\Debug\WFABarbut.csprojAssemblyReference.cache
+C:\Users\Gozde Erdogan\source\repos\WFABarbut\WFABarbut\obj\Debug\WFABarbut.Form1.resources
+C:\Users\Gozde Erdogan\source\repos\WFABarbut\WFABarbut\obj\Debug\WFABarbut.Properties.Resources.resources
+C:\Users\Gozde Erdogan\source\repos\WFABarbut\WFABarbut\obj\Debug\WFABarbut.csproj.GenerateResource.cache
+C:\Users\Gozde Erdogan\source\repos\WFABarbut\WFABarbut\obj\Debug\WFABarbut.csproj.CoreCompileInputs.cache
+C:\Users\Gozde Erdogan\source\repos\WFABarbut\WFABarbut\obj\Debug\WFABarbut.exe
+C:\Users\Gozde Erdogan\source\repos\WFABarbut\WFABarbut\obj\Debug\WFABarbut.pdb
